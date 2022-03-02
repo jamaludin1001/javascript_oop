@@ -45,7 +45,8 @@ const table = new Table({
   columns: ["Nama", "Alamat", "Email", "No Tlp"],
     data: [
       ["Embun", "Jakarta", "embun@gmail.com", "081377689954"],
-      ["Jamaludin", "Cilacap", "jamaludin@gmail.com", "087665887566"]
+      ["Jamaludin", "Cilacap", "jamaludin@gmail.com", "087665887566"],
+      ["Imelza", "Padang", "imleza@gmail.com", "0812557897004"]
     ]
     });
 const app = document.getElementById("app");
